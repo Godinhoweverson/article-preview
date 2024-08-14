@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Godinhoweverson/article-preview)
-- Live Site URL: [Add live site URL here](https://godinhoweverson.github.io/article-preview/m)
+- Live Site URL: [Add live site URL here](https://godinhoweverson.github.io/article-preview/)
 
 ## My process
 
